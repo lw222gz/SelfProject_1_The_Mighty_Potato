@@ -1,0 +1,48 @@
+body {
+    background-image:url("../Images/Backgrounds/HTMLBackground.png");
+    background-repeat:no-repeat;
+    background-size:100%;
+}
+
+#miniMapContainer{
+    background-color:#E86C0C;
+    position:absolute;
+    left:1100px;
+    top:260px;
+    text-indent:50px;
+    width:350px;
+    height:497px;
+}
+
+#gameContainer{
+    margin-left:400px;
+    margin-top:200px;
+}
+
+#miniMapContainer p {
+    font-family: 'Indie Flower', cursive;
+}
+
+.MiniMapTitle {
+    text-decoration:underline;
+    font-size:36px;
+}
+
+.MiniMapNormSize {
+    font-size:24px;
+}
+
+.RestartButton {
+    width:100px;
+    height:20px;
+    background-color:blue;
+    text-align:center;
+    padding:10px;
+    color:white;
+    margin-left:475px;
+}
+
+.MiniMap{
+    margin-left: 50px;
+}
+
